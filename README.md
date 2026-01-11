@@ -6,7 +6,7 @@ This project is a technical assessment implementation that recreates core functi
 
 **Frontend:** [Live Site URL](https://vectorshift-task.vercel.app/)
 
-**Code Repo:** [Repository URL]
+**Code Repo:** [Repository URL] (https://github.com/Prowin7/VectorShift-Assessment-)
 
 ## Demo Video
 
@@ -66,7 +66,7 @@ Follow these steps to run the project locally.
 
 1. **Clone and Install**
 ```bash
-git clone 
+git clone https://github.com/Prowin7/VectorShift-Assessment-
 cd frontend
 cp .env.example .env
 npm install
