@@ -10,7 +10,7 @@ This project is a technical assessment implementation that recreates core functi
 
 ## Demo Video
 
-[Watch the Walkthrough] 
+[Watch the Walkthrough] https://youtu.be/8rB4cVnRdqc 
 
 ## Key Features
 
